@@ -1,0 +1,28 @@
+@media (min-width: 300px) and (max-width: 580px) {
+    .tophead_left {
+        display: none;
+    }
+}
+@media (min-width: 581px) and (max-width: 768px) {
+    .tophead_left {
+        display: none;
+    }
+}
+@media (min-width: 769px) and (max-width: 996px) {
+    .topbar {
+        font-size: 8px !important;
+    }
+}
+@media (max-width:582px){
+    .hidden-sm-down{
+        display: none;
+    }
+}
+@media (max-width:715px){
+    .title-main h1{
+        display: none;
+    }
+    .title-main span {
+        display: none;
+    }
+}
